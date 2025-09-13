@@ -5,3 +5,4 @@ python-dotenv
 reportlab
 Pillow
 beautifulsoup4
+streamlit
