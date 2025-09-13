@@ -6,3 +6,5 @@ reportlab
 Pillow
 beautifulsoup4
 streamlit
+plotly
+kaleido
